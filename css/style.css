@@ -164,7 +164,7 @@ button:focus {
   outline: none !important;
   text-align: center;
   text-transform: capitalize;
-  border: 2px solid #E7A3Bd;
+  border: 2px solid #8d9eca;
   border-radius: 50px;
   cursor: pointer;
   -webkit-transition: all 0.4s ease 0s;
@@ -172,7 +172,7 @@ button:focus {
   -o-transition: all 0.4s ease 0s;
   transition: all 0.4s ease 0s; }
   .primary-btn:hover {
-    background: #E7A3Bd;
+    background: #8d9eca;
     color: #fff;
     border: 2px solid transparent; }
 
@@ -219,7 +219,7 @@ button:focus {
           border-radius: 0px;
           box-shadow: none;
           margin: 0px;
-          background: #ffd200; }
+          background: #8d9eca; }
           @media (min-width: 992px) {
             .header_area .navbar .nav .nav-item.submenu ul {
               position: absolute;
@@ -373,7 +373,7 @@ button:focus {
         overflow: hidden;
         width: 100%;
         min-height: 400px;
-        background-color: #E7A3BC;
+        background-color: #8d9eca;
         background-size: cover;
         z-index: 1;
     }
